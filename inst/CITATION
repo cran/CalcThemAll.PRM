@@ -1,0 +1,29 @@
+  bibentry(
+    bibtype = "Manual",
+    title = "CalcThemAll.PRM",
+    author = c(
+      person("Alexander", "Bezzina", role = c("aut", "cre"),
+             email = "alex.h.bezzina@gmail.com"),
+      person("Jennifer", "Strauss", role = "aut"),
+      person("Catherine", "Neelamraju", role = "aut"),
+      person("Hayley", "Kaminski", role = "aut"),
+      person("Cameron", "Roberts", role = "aut"),
+      person("Jordan", "Glen", role = "aut"),
+      person("Francisco", "Diaz", role = "aut")
+
+    ),
+    year = "2024",
+    note = "R package version 1.01",
+    url = "https://CRAN.R-project.org/package=CalcThemAll.PRM",
+    key = "Calc-package"
+  )
+
+  bibentry(
+    bibtype = "TechReport",
+    title = "Development of a Method for Estimating the Toxicity of Pesticide Mixtures and a Pesticide Risk Baseline for the Reef 2050 Water Quality Improvement Plan",
+    author = as.person("Michael Warne [aut], Catherine Neelamraju [aut], Jennifer Strauss [aut], Rachael Smith [aut], Ryan Turner [aut], Reinier Mann [aut]"),
+    year = "2020",
+    institution = "Department of Environment and Science Queensland",
+    url = "https://www.publications.qld.gov.au/dataset/method-development-pesticide-risk-metric-baseline-condition-of-waterways-to-gbr/resource/c65858f9-d7ba-4aef-aa4f-e148f950220f",
+    key = "Calc-methods"
+  )
